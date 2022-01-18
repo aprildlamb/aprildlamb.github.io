@@ -1,0 +1,15 @@
+# Site settings
+title: April Lamb
+email: adlamb@ncsu.edu
+description: > # this means to ignore newlines until "baseurl:"
+  April Lamb is a Research Technician at the University of North Carolina, Charlotte in Alex Dornburg's lab. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://aprildlamb.github.io" # the base hostname & protocol for your site
+twitter_username: aprildlamb
+github_username:  aprildlamb
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
